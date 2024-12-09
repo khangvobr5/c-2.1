@@ -1,0 +1,8 @@
+int: Dùng để khai báo các biến kiểu số nguyên, thường có kích thước 4 byte trên hệ điều hành 32-bit hoặc 64-bit.
+float: Dùng để khai báo các biến kiểu số thực (điểm động), có độ chính xác thấp (thường 4 byte).
+double: Dùng để khai báo các biến kiểu số thực với độ chính xác cao hơn float (thường 8 byte).
+char: Dùng để khai báo các biến kiểu ký tự, lưu trữ một ký tự ASCII (thường 1 byte).
+short: Dùng để khai báo các biến kiểu số nguyên ngắn, có kích thước nhỏ hơn int (thường 2 byte).
+long: Dùng để khai báo các biến kiểu số nguyên dài, có kích thước lớn hơn int (thường 4 byte hoặc 8 byte tùy vào hệ điều hành).
+unsigned int: Tương tự kiểu int nhưng chỉ lưu trữ các giá trị dương (không có giá trị âm).
+long long: Kiểu số nguyên rất dài, có kích thước lớn hơn long (thường 8 byte).
